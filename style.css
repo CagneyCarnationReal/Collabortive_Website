@@ -1,0 +1,13 @@
+@font-face {
+        font-family: 'Mojangles';
+            src: url('Mojang-Regular.ttf');
+}
+
+
+body{
+    font-family: 'Mojangles';
+    color:white;
+    
+
+
+}
