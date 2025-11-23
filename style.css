@@ -4,10 +4,12 @@
 }
 
 
+
 body{
     font-family: 'Mojangles';
     color:white;
-    
-
+    background-image:url(dirt.jpeg); 
+    text-align: center;
+    line-height: 2;
 
 }
