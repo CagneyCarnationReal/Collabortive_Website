@@ -13,7 +13,7 @@ body{
     line-height: 2;
 }
 
-h1,h2,h3,p{
+h1,h2,h3,p,ul,table,caption{
     border: 2px solid #333;
   padding: 10px;
   margin: 15px 0;
@@ -23,3 +23,12 @@ h1,h2,h3,p{
   margin: 0 auto;
 }
 
+img{
+    border: 2px solid #333;
+  padding: 10px;
+  margin: 15px 0;
+  background-color: #f0f0f0;
+  border-radius: 5px; 
+  width: 500px;
+  margin: 0 auto;
+}
